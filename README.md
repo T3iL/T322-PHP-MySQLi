@@ -31,6 +31,96 @@ zawierający tabelę z wprowadzonymi danymi zabezpieczony hasłem i nazwą użyt
 
 ```
 
+```php
+
+
+
+
+<html>
+    <body>
+<?php
+    if(file_exists('gra.txt')){
+        echo "Jest plik";
+        $my_file = fopen('gra.txt','r') or die;
+        
+        $myArray = array();
+
+        while (!feof($my_file)) {
+            $line = fgets($my_file);
+            // $myArray[] = explode(' ', $line);
+            $myArray[] = "<p>" . $line . "</p>";
+         }
+        // forEach($myArray as $line) {
+        //     echo $line;
+        // };
+        fclose($my_file);
+    }
+
+    $counter = 0;
+
+    if(isset($_GET['index'])){
+        $counter = $_GET['index'] + 1;
+    }
+
+?>
+
+<form>
+    <input name="index" value="<?php echo $counter?>"/>
+    <input type="submit" value="next">
+</form>
+
+<h2>
+    <?php 
+        echo $myArray[$counter];
+    ?>
+</h2>
+
+</boddy>
+</html>
+
+
+
+<html>
+    <body>
+<?php
+    if(file_exists('gra.txt')){
+        //echo "Jest plik";
+        $my_file = fopen('gra.txt','r') or die;
+        
+        $myArray = array();
+
+        while (!feof($my_file)) {
+            $line = fgets($my_file);
+            // $myArray[] = explode(' ', $line);
+            $myArray[] = "<p>" . $line . "</p>";
+         }
+
+        fclose($my_file);
+    }
+
+    $counter = 0;
+
+    if(isset($_GET['index'])){
+        $counter = $_GET['index'] + 1;
+    }
+
+?>
+
+<form>
+    <input name="index" value="<?php echo $counter?>"/>
+    <input type="submit" value="next">
+</form>
+
+<h2>
+    <?php 
+        echo $myArray[$counter];
+    ?>
+</h2>
+
+</boddy>
+</html>
+```
+
 ### --------Baza on line
 
 https://sql.szczeszek.home.pl/sql/
