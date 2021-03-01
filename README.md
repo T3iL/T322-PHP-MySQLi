@@ -25,7 +25,7 @@ Na ocenę 5:
 
 - przygotuj fabułę zbudowaną z co najmniej 40 lokacji
 - zabezpiecz przed przejściem dalej bez wyboru odpowiedzi
-- zabezpiecz przed rozpoczynaniem od dowolnego pytania (np przez wpisanie w url)
+- zabezpiecz przed rozpoczynaniem od dowolnej lokacji (np przez wpisanie w url)
 
 proszę o informację na MS teams ukończeniu zadania
 
