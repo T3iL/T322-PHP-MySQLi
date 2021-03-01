@@ -12,8 +12,9 @@
 
 ```
 ZADT32201.
-Stwórz formularz rejestracyjny użytkowników:
-- portalu randkowego
+Stwórz formularz rejestracyjny:
+
+- użytkowników portalu randkowego
 - sprzedaży ubezpieczeń komunikacyjnych
 - zamówienia wycieczki zagranicznej
 - wyceny usługi sprzątania/remontowej
