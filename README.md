@@ -17,6 +17,14 @@ Stwórz formularz rejestracyjny użytkowników portalu randkowego/sprzedaży ube
 
 ```
 
+### --------Baza on line
+
+https://sql.szczeszek.home.pl/sql/
+
+01493838_uczentl
+
+
+
 ### --------Info
 
 https://jaki-jezyk-programowania.pl/technologie/php/
