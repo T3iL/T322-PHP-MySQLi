@@ -8,13 +8,18 @@
 6. MYSQLI_QUERY
 7. MYSQLI_NUM_ROWS, MYSQLI_FETCH_ARRAY
 8. MYSQLI_CLOSE
+9. 
 
 ```
 ZADT32201.
-Stwórz formularz rejestracyjny użytkowników portalu randkowego
+Stwórz formularz rejestracyjny użytkowników portalu randkowego/sprzedaży ubezpieczeń komunikacyjnych. Zapisz wprowadzane dane do bazy danych oraz stwórz (na osobnej stronie) raport zawierający tabelę z wprowadzonymi danymi zabezpieczony hasłem i nazwą użytkownika.
+
+
 ```
 
-### --------Repositiories
+### --------Info
+
+https://jaki-jezyk-programowania.pl/technologie/php/
 
 https://www.php.net/manual
 
