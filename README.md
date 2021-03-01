@@ -34,12 +34,13 @@ Przygotuj aplikację licznik odwiedzin
 zliczający wszystkich użytkowników odwiedzających stronę którzy klikną przycisk.
 
 ZADT32203.
-Stwórz formularz rejestracyjny:
+Zaprojektuj i wykonaj formularz:
 
 - użytkowników portalu randkowego
 - sprzedaży ubezpieczeń komunikacyjnych
 - zamówienia wycieczki zagranicznej
 - wyceny usługi sprzątania/remontowej
+
 Zapisz wprowadzane dane do bazy danych oraz stwórz (na osobnej stronie) raport 
 zawierający tabelę z wprowadzonymi danymi zabezpieczony hasłem i nazwą użytkownika.
 
