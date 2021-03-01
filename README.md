@@ -30,6 +30,9 @@ Na ocenę 5:
 proszę o informację na MS teams ukończeniu zadania
 
 ZADT32202.
+Przygotuj aplikację licznik odwiedzin zliczający wszystkich użytkowników odwiedzających stronę którzy klikną przycisk.
+
+ZADT32203.
 Stwórz formularz rejestracyjny:
 
 - użytkowników portalu randkowego
