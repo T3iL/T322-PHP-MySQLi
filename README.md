@@ -12,6 +12,13 @@
 
 ```
 ZADT32201.
+Gra RPG tekstowa
+
+- Wczytaj przygotowaną treść tekstu linia po lini
+- Wyświetl linia po lini treść gry
+- Użyj kodu lini tdo przejścia między zdarzeniami.
+
+ZADT32202.
 Stwórz formularz rejestracyjny:
 
 - użytkowników portalu randkowego
