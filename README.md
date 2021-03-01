@@ -12,11 +12,22 @@
 
 ```
 ZADT32201.
-Gra RPG tekstowa
+Gra RPG tekstowa http://animateria.pl/gra-rpg/
 
 - Wczytaj przygotowaną treść tekstu linia po lini
 - Wyświetl linia po lini treść gry
 - Użyj kodu lini tdo przejścia między zdarzeniami.
+- Przygotuj obsługę stron zawiertających tylko opisy oraz opisy wraz z pytaniami.
+
+Na ocenę 5:
+- umieść pliki gry zarówno na swoim koncie github, jak i na ftp 
+(poświadczenia w opisie do porzedniej lekcji https://github.com/T3iL/T321-PHP)
+
+- przygotuj fabułę zbudowaną z co najmniej 40 lokacji
+- zabezpiecz przed przejściem dalej bez wyboru odpowiedzi
+- zabezpiecz przed rozpoczynaniem od dowolnego pytania (np przez wpisanie w url)
+
+proszę o informację na MS teams ukończeniu zadania
 
 ZADT32202.
 Stwórz formularz rejestracyjny:
