@@ -47,7 +47,7 @@ zawierający tabelę z wprowadzonymi danymi zabezpieczony hasłem i nazwą użyt
 
 ```
 DB CR-UD-
-```
+```php
 <?php
 $servername = "localhost";
 $username = "root";
