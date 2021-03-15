@@ -36,7 +36,7 @@ zliczający wszystkich użytkowników odwiedzających stronę którzy klikną pr
 ZADT32203.
 Zaprojektuj i wykonaj formularz:
 
-- użytkowników portalu randkowego [Mikołaj] - http://animateria.pl/uczentl/Mikolaj/portal_randkowy/registr.php
+- użytkowników portalu randkowego [Mikołaj] - http://animateria.pl/uczentl/Miko%C5%82aj/portal_randkowy/registr.php
 - sprzedaży ubezpieczeń komunikacyjnych [Michał] - http://animateria.pl/uczentl/Michal/ubz/
 - zamówienia wycieczki zagranicznej [Konrad]
 - wyceny usługi sprzątania/remontowej [Marcin,Antoni]  http://animateria.pl/uczentl/Antoni/powtorka1.php
