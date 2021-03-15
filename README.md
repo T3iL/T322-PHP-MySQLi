@@ -147,11 +147,14 @@ mysqli_close($conn);
 
 ### --------Baza on line
 
-baza: szczeszek.home.pl
+servername: szczeszek.home.pl
 
 user: 01493838_uczentl
 
 pass: to co poprzednio
+
+baza: 01493838_uczentl
+
 
 phpmyadmn: https://sql.szczeszek.home.pl/sql/
 
