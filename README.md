@@ -62,7 +62,7 @@ if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
 }
 
-if(isset($_GET['username']) && !empty($_GET['username']) && isset($_GET['username'])){
+if(isset($_GET['username']) && !empty($_GET['username'])){
     $insertsql = 'INSERT INTO subscribers (id, username)
     VALUES (NULL, "'. $_GET['username'] . '")';
     if (mysqli_query($conn, $insertsql)) {
