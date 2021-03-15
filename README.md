@@ -147,9 +147,13 @@ mysqli_close($conn);
 
 ### --------Baza on line
 
-https://sql.szczeszek.home.pl/sql/
+baza: szczeszek.home.pl
+user: 01493838_uczentl
+pass: to co poprzednio
 
-01493838_uczentl
+phpmyadmn: https://sql.szczeszek.home.pl/sql/
+
+
 
 
 
